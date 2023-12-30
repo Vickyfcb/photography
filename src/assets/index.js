@@ -27,8 +27,35 @@ import mcr5 from "./mcr5.png"
 import arrow1 from "./arrow1.png"
 import arrow2 from "./arrow2.svg"
 import arrowblue from "./arrowblue.svg"
+import searchgray from "./searchgray.svg"
+import filter from "./filter.svg"
+import heart from "./heart.svg"
+import philomena from "./philomena.png"
+import rosemary from "./rosemary.png"
+import vbl from "./vbl.png"
+import alternating from "./alternating.png"
+import elipsa from "./elipsa.png"
+import boolean from "./boolean.png"
+import lawmakers from "./lawmakers.png"
+import blanc from "./blanc.png"
+import bevery from "./bevery.png"
+import egypt from "./egypt.png"
+import sassy from "./sassy.png"
+import bougie from "./bougie.png"
+import lost from "./lost.png"
+import circa from "./circa.png"
 
 export {
+  alternating,
+  philomena,
+  rosemary,
+  vbl,
+  elipsa,
+  boolean,
+  lawmakers,
+  blanc,
+  bevery,
+  egypt,
   cre1,
   cre2,
   cre3,
@@ -48,6 +75,7 @@ export {
   close,
   notifi,
   search,
+  searchgray,
   cart,
   chat,
   mcr1,
@@ -58,4 +86,10 @@ export {
   arrow1,
   arrow2,
   arrowblue,
+  filter,
+  heart,
+  sassy,
+  bougie,
+  lost,
+  circa
 };
